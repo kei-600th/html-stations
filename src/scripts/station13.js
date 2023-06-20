@@ -1,5 +1,7 @@
 data = "global data";
 
+// アロー関数を使用
+
 // このreturnDataに代入される関数の形をアロー関数に変えて"global data"が表示されるようにしてください
 // ↓関数の中の処理は変更しないでください
 const returnThisData = () => {
